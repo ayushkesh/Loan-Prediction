@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Loan Approval Prediction
 ![Dataset](https://img.shields.io/badge/Dataset-Analytics%20Vidhya-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ### Description about repository:

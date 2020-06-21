@@ -11,6 +11,8 @@ _• Decision Tree Regression/Classification_<br/>
 _• Random Forest Regression/Classification_<br/>
 _• Naive Bayes Classification_<br/>
 _• Support Vector Classification_<br/>
+_• Artificial Neural Network_<br/>
+
 
 
 
